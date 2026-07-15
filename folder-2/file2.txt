@@ -1,0 +1,7 @@
+git push url
+git remote add sample url 
+git push sample
+git branch
+git branch dev(name)
+git checkout/switch dev
+
